@@ -36,15 +36,13 @@ int main() {
 
   cout << number1 << "-" << number2 << "=" << subtraction << endl;
 
-   cout << number1 << "*" << number2 << "=" << multiplication << endl;
+  cout << number1 << "*" << number2 << "=" << multiplication << endl;
 
-    cout << number1 << "/" << number2 << "=" << division << endl;
+  cout << number1 << "/" << number2 << "=" << division << endl;
 
-     cout << number1 << "%" << number2 << "=" << modulus << endl; 
+  cout << number3 << "%" << number4 << "=" << modulus << endl; 
 
   
+   return 0; 
 
-
-  //Input 
-cout << "Hello World!\n";
 }
