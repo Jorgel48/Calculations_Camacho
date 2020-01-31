@@ -30,8 +30,23 @@ int main() {
   addition = number1 + number2;
   subtraction = number1 - number2;
   multiplication = number1 * number2;
-  division = number1 / number2;
-  modulus = number3 % number4;
+  if (number2 ==0)
+{
+  cout << "number2 can not equal 0";
+}  
+else {
+ division = number1 / number2; 
+}
+  if (number4 ==0)
+  {
+    cout << "number4 can not equal 0";
+}
+  else {
+    modulus = number3 % number4; 
+  }
+  
+  
+
   cout << number1 << "+" << number2 << "=" << addition << endl;
 
   cout << number1 << "-" << number2 << "=" << subtraction << endl;
