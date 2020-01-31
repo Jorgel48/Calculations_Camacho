@@ -1,0 +1,6 @@
+I initiated the variables.
+I asked the user for input.
+I procesed by adding, subtracting, multiplying, dividing, and taking the modulus.
+Checking number2 and number4 equal 0.
+I Output viriables.
+  
